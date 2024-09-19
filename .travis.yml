@@ -13,7 +13,7 @@ deploy:
   dpl_version: 1.10.16
   region: "eu-north-1"
   app: "frontend"
-  environment: "Frontend-env"
+  environment: "frontend-env"
   bucket_name: "elasticbeanstalk-eu-north-1-084828562722"
   bucket_path: "frontend"
   on:
