@@ -10,7 +10,6 @@ script:
 
 deploy:
   provider: elasticbeanstalk
-  dpl_version: 1.10.16
   region: "eu-north-1"
   app: "frontend"
   environment: "frontend-env"
